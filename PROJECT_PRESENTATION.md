@@ -1,4 +1,4 @@
-# Welcome to Speccy_Squad's Kata Challenges 😎
+# Welcome to the Speccy_Squad's Kata Challenges 😎
 This is Task 2 in our 3 part challenge.
 nb: These can be completed individually
 
