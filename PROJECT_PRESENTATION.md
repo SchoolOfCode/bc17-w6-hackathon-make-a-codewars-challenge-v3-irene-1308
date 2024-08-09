@@ -1,4 +1,4 @@
-# Welcome to Speccy_Squad's Kata Challenges 😎
+# Welcome to the Speccy_Squad's Kata Challenges 😎
 This is Task 2 in our 3 part challenge.
 nb: These can be completed individually
 
@@ -13,7 +13,7 @@ You already have a list of all shops in your area and what they have in stock.
 - create a function that will check through all stores' inventory:
 - if there is a shop that has all things you're after, returns the name of this shop;
 - if there is no match, you should see a message like "Whoomp - whomp, looks like you might have to make several trips";
-- if there are several stores with matching stock, show the name of all shops
+- if there are several stores with matching stock, show the name of all shops with matching stock
 
 
 ## How to Install and Run
