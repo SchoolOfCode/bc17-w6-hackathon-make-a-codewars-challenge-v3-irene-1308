@@ -15,7 +15,7 @@ test('returns a message when no store has all items', () => {
 });
 
 // Check if there are several stores that have all the items from you list
-test('returns a message when no store has all items', () => {
+test('returns a message when several stores have all items', () => {
     const randomToBuyList = ['Milk', 'Lettuce', 'Pepsi'];  // Several store have all these items
     const result = findStoreWithAllItems(stores, randomToBuyList);
     expect(result).toEqual(`You could chose to go to one of these stores: ASDA or Morrisons`);
